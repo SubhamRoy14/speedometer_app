@@ -1,6 +1,24 @@
-# learning_1
+📘 Speedometer App
 
-A new Flutter project.
+A lightweight and clean Flutter application that displays real-time speed, heading, and altitude using your device’s GPS.
+
+✨ Features
+
+🚗 Real-time speed in km/h
+
+🧭 Heading (N, NE, E, SE, S, SW, W, NW)
+
+🏔 Altitude display
+
+🌙 Automatic dark/light mode
+
+⚡ Smooth performance
+
+📡 Works offline (after initial GPS lock)
+
+
+
+
 
 ## Getting Started
 
